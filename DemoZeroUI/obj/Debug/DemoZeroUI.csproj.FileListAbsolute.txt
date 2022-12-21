@@ -1,0 +1,11 @@
+C:\Users\Fadeee\source\repos\DemoZeroUI\DemoZeroUI\bin\Debug\DemoZeroUI.exe.config
+C:\Users\Fadeee\source\repos\DemoZeroUI\DemoZeroUI\bin\Debug\DemoZeroUI.exe
+C:\Users\Fadeee\source\repos\DemoZeroUI\DemoZeroUI\bin\Debug\DemoZeroUI.pdb
+C:\Users\Fadeee\source\repos\DemoZeroUI\DemoZeroUI\obj\Debug\DemoZeroUI.csprojAssemblyReference.cache
+C:\Users\Fadeee\source\repos\DemoZeroUI\DemoZeroUI\obj\Debug\DemoZeroUI.LoginForm.resources
+C:\Users\Fadeee\source\repos\DemoZeroUI\DemoZeroUI\obj\Debug\DemoZeroUI.Properties.Resources.resources
+C:\Users\Fadeee\source\repos\DemoZeroUI\DemoZeroUI\obj\Debug\DemoZeroUI.csproj.GenerateResource.cache
+C:\Users\Fadeee\source\repos\DemoZeroUI\DemoZeroUI\obj\Debug\DemoZeroUI.csproj.CoreCompileInputs.cache
+C:\Users\Fadeee\source\repos\DemoZeroUI\DemoZeroUI\obj\Debug\DemoZeroUI.exe
+C:\Users\Fadeee\source\repos\DemoZeroUI\DemoZeroUI\obj\Debug\DemoZeroUI.pdb
+C:\Users\Fadeee\source\repos\DemoZeroUI\DemoZeroUI\obj\Debug\DemoZeroUI.Main.resources
